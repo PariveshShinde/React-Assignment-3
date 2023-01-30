@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Parivesh",
+    "EmpId": 1101,
+    "Age": 23,
+    "TechStack": "Pyhton"
+  },
+  {
+    "Name": "Manish",
+    "EmpId": 6119,
+    "Age": 33,
+    "TechStack": "AWS"
+  },
+  {
+    "Name": "Aditya",
+    "EmpId": 9651,
+    "Age": 28,
+    "TechStack": "Salesforce"
+  },
+  {
+    "Name": "Sarthak",
+    "EmpId": 2163,
+    "Age": 22,
+    "TechStack": "MERN Stack"
+  },
+  {
+    "Name": "Hardik",
+    "EmpId": 1151,
+    "Age": 40,
+    "TechStack": "Java"
+  }
+]
